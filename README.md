@@ -1,1 +1,1 @@
-# spring-cloud-config-repository
+# quant-config
